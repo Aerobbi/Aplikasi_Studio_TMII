@@ -1,0 +1,28 @@
+
+                      Laporan Data Konsumen
+
+                     Studio Taman Mini Foto
+             Gedung Stasiun Aeromovel Taman Anggrek
+                      No. Telp. 0218400262
+
+  Id KonsNama Konsu  Alamat  Nomor TeleJenis Kela Agama
+  P0001  Sari      Depok     896       Perempuan ISLAM
+  P0002  Dayanti   Depok     8960      Perempuan ISLAM
+  P0003  Robi      Ciracas   44856477  Laki-Laki ISLAM
+  P0004  Yatmi     Ciracas   826256272 Perempuan ISLAM
+
+
+
+
+
+
+
+
+
+                                     Jakarta Kamis, 26 De
+                                        Direktur Utama
+
+
+                                           SUKIRMAN
+
+

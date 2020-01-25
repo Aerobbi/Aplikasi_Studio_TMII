@@ -1,0 +1,27 @@
+
+                    Laporan Data Karyawan
+
+                   Studio Taman Mini Foto
+           Gedung Stasiun Aeromovel Taman Anggrek
+                    No. Telp. 0218400262
+
+Nama KaryJenis K    Email    Nomor Tel Agama   Alamat
+ Himawan Laki-LaHimawan@gmail  1234    ISLAM   jakarta
+
+  Kayla  PerempuKayla@gmail.c  89601   ISLAM   Jakarta
+
+  Rudi   Laki-LaRudi@gmail.co81222212 KHATOLIK Jakarta
+
+  Tiara  PerempuTiara@gmail.c811811811 ISLAM   Jakarta
+
+
+
+
+
+
+                                   Jakarta,Sabtu 11 Jan
+                                      Direktur Utama
+
+                                         SUKIRMAN
+
+

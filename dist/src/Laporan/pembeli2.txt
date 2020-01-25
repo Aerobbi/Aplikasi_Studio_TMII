@@ -1,0 +1,43 @@
+
+                      Laporan Data Konsumen
+
+                     Studio Taman Mini Foto
+             Gedung Stasiun Aeromovel Taman Anggrek
+                      No. Telp. 0218400262
+
+  Id KonsNama Kons  Alamat  Nomor TeleJenis Kel   Agama
+   P0001   SARI      DEPOK  0896017200Perempuan   ISLAM
+   P0002  DAYANTI    DEPOK  0895220060  Laki      ISLAM
+   P0003   RINA     JAKARTA 0877665511Perempuan   ISLAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Jakarta,Senin 20 Jan
+                                        Direktur Utama
+
+                                           SUKIRMAN
+
+
+

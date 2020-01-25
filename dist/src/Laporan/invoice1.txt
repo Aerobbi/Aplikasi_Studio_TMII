@@ -1,0 +1,25 @@
+
+                         Struk Transaksi
+
+                     Studio Taman Mini Foto
+             Gedung Stasiun Aeromovel Taman Anggrek
+                      No. Telp. 0218400262
+
+ No. F  F0006
+
+  Nama KonsumNama BarangHarga Satua    Qty    Total Harga
+     Robi      MASKER      7000         3        21000
+     Robi      HEADSET     30000        4       120000
+                                     Total :    141000
+
+
+
+
+                                    Jakarta ,Sabtu 11 Jan
+                                        Direktur Utama
+
+
+                                           SUKIRMAN
+
+
+

@@ -1,0 +1,32 @@
+
+                       Laporan Data Barang
+
+                     Studio Taman Mini Foto
+             Gedung Stasiun Aeromovel Taman Anggrek
+                      No. Telp. 0218400262
+
+  Kode BaraNama Bara   Qty   Harga BelHarga Jua Tgl Masuk
+    B0001    MOUSE     295     5000     10000   16/01/202
+
+    B0002    TOPI      497     10000    20000   16/01/202
+
+    B0004   GELANG     400     5000     10000   17/01/202
+
+    B0005   PAYUNG      2      10000    15000   18/01/202
+
+
+
+
+
+
+
+
+
+
+                                     Jakarta,Senin 20 Jan
+                                        Direktur Utama
+
+
+                                           SUKIRMAN
+
+

@@ -1,0 +1,82 @@
+
+                    Laporan Data Pembelian
+
+                    Studio Taman Mini Foto
+            Gedung Stasiun Aeromovel Taman Anggrek
+                     No. Telp. 0218400262
+
+02-Des-2Sampai D 20-Jan-202
+
+No Fak Nama Kon Nama Bar Harga JumlTanggal    Harga
+
+
+F0001    Sari   FLASHDIS 55000  2  13/12/20  110000
+
+F0001    Sari   CHARGER  30000  3  13/12/20   90000
+
+F0002    Sari   HEADSET  30000  2  13/12/20   60000
+
+F0002    Sari    MASKER   7000  4  13/12/20   28000
+
+F0003  Dayanti  HEADSET  30000  2  14/12/20   60000
+
+F0003  Dayanti   MASKER   7000  5  14/12/20   35000
+
+F0003  Dayanti   PAYUNG  35000  3  14/12/20  105000
+
+F0004  Dayanti  FLASHDIS 55000  3  16/12/20  165000
+
+F0004  Dayanti  CHARGER  30000  1  16/12/20   30000
+
+F0005   Yatmi    HANDUK  30000  4  19/12/20  120000
+
+F0005   Yatmi    GELANG   8000  6  19/12/20   48000
+
+F0006    Robi    MASKER   7000  3  21/12/20   21000
+
+F0006    Robi   HEADSET  30000  4  21/12/20  120000
+
+F0007   Yatmi   CHARGER  30000  3  23/12/20   90000
+
+                                  Jakarta,Senin 20 Jan
+                                      Direktur Utama
+
+                                        SUKIRMAN
+
+
+02-Des-2Sampai D 20-Jan-202
+
+No Fak Nama Kon Nama Bar Harga JumlTanggal    Harga
+
+F0008    Robi    GELANG   8000  4  26/12/20   32000
+
+F0008    Robi   SARUNG T  7000  5  26/12/20   35000
+
+F0008    Robi    HANDUK  30000  4  26/12/20  120000
+
+F0009    Bayu   CHARGER  30000  4  26/12/20  120000
+
+F0009    Bayu   KAOS KAK  7000  4  26/12/20   28000
+
+F0009    Bayu   SARUNG T  7000  3  26/12/20   21000
+
+F0010  Choirul  SARUNG T  7000  3  09/01/20   21000
+
+F0010  Choirul   HANDUK  30000  8  09/01/20  240000
+
+F0011    Iwan   HEADSET  30000  6  09/01/20  180000
+
+F0011    Iwan    PAYUNG  35000  7  09/01/20  245000
+
+F0012    MONA     TOPI   20000  3  18/01/20   60000
+
+F0012    MONA    MOUSE   10000  5  18/01/20   50000
+
+                                    Total :  2234000
+
+                                  Jakarta,Senin 20 Jan
+                                      Direktur Utama
+
+                                        SUKIRMAN
+
+
